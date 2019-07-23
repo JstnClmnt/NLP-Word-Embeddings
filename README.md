@@ -10,7 +10,7 @@ Some projects where I used word vectors:
 * [Sentiment Analysis on Imdb Dataset](https://github.com/JstnClmnt/NLP-Reporting-Prelims-Sentiment-Analysis)
 * [English Part-of-Speech Tagger](https://github.com/JstnClmnt/NLP-POS-Tagger)
 * [Topic Identification of Filipino and English News using Attention Mechanisms](https://github.com/JstnClmnt/NLP-News-Classification)
- *Used Pre-trained word embeddings such as FastText and GloVe 
+  * Used Pre-trained word embeddings such as FastText and GloVe 
   
 [Code](https://colab.research.google.com/drive/1SfKaeji4i1SbSttFUFq5Zg_cZ5hCK4lG)
 
