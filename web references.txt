@@ -1,0 +1,25 @@
+References:
+
+Stanford's CS224n: Natural Language Processing with Deep Learning
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
+Tensorflow Word2Vec Tutorial:
+https://www.tensorflow.org/tutorials/representation/word2vec
+
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
+
+https://myndbook.com/view/4900
+
+https://medium.com/datadriveninvestor/skip-gram-model-broken-down-subsampling-n-grams-feab04a6f220
+
+Word2Vec from Scratch:
+https://nathanrooy.github.io/posts/2018-03-22/word2vec-from-scratch-with-python-and-numpy/
+
+https://www.technologyreview.com/s/541356/king-man-woman-queen-the-marvelous-mathematics-of-computational-linguistics/
+
+Sebastian Ruder: On Word Embeddings
+http://ruder.io/word-embeddings-1/index.html
+http://ruder.io/word-embeddings-softmax/index.html
+http://ruder.io/secret-word2vec/index.html
